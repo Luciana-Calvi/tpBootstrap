@@ -2,8 +2,10 @@
 
 Curso FULL STACK JAVA - Codo a Codo
 
-# REPOSITORIOS DE GITHUB
+# REPOSITORIO DE GITHUB
 GITHUB | https://github.com/Luciana-Calvi/tpBootstrap
+
+DEPLOY | https://luciana-calvi.github.io/tpBootstrap/
 
 _________________________________________________
 # tpBootstrap
